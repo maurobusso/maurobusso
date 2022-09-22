@@ -2,7 +2,7 @@
 
 (Full stack software developer)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maurobusso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats)
 
 <!--
 **maurobusso/maurobusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
