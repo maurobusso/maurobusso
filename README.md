@@ -25,27 +25,21 @@ Intro
 
 :computer: My coding journey :computer:
 
-
+I first approached coding when I was 15, I became really interested and fascinated by it, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me.
 
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats)
 
+#
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/mauro-busso-601723195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/MauroBusso4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
+
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=maurobusso" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=maurobusso" alt="visitor badge"/>       
 </p>
-<!--
-**maurobusso/maurobusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
