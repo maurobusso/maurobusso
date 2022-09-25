@@ -1,6 +1,6 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/maurobusso/maurobusso/blob/main/rick%20and%20morty.jpg)
 
-<br><h1>Mauro Busso :books:</h1>
+<br><h1>Mauro Busso</h1>
 `Full stack software developer`
 <br/>
 
