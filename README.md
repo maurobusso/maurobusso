@@ -1,7 +1,7 @@
-<h1>Mauro Busso :books:</h1>
-Full stack software developer
+<br><h1>Mauro Busso :books:</h1>
+`Full stack software developer`
+<br/>
 
----
 
 <h3>Intro<h3/>
 
