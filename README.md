@@ -30,16 +30,15 @@ Hello there, I'm a self-taught software engineer from Italy living in the UK. Cu
 #
 
 <h3>:computer: My coding journey :computer:</h3>
-I first approached coding when I was 15, I became really interested and fascinated by it, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me.<br />
+I first approached coding when I was 15, I became really interested and fascinated by it, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me until I discovered 100Devs a free coding bootcamp that started during lock down to help people that were laid off developer new skill with the aim of obtaining a job in the tech industry. In addition, as one of my last project during university, I developed a website to help people through rehabilitation using wix however that made me realize how much I love building things and ultimately made me decide to take this to the next level and commit myself to switch career and become a software developer<br />
 <br />
 <br />
 About me:<br />
 -Love reading fantasy and personal development books <br />
 -Currently reading: Grokking Algorithms <br />
 -passionate about crypto <br />
--Bsc degree in sport science <br />
--Bsc degree in podiatry <br />
-
+-BSc degree in sport science <br />
+-BSc degree in podiatry <br />
 
 #
 
