@@ -1,11 +1,11 @@
-![](https://github.com/maurobusso/maurobusso/blob/main/rick%20and%20morty.jpg)
-
 <br><h1>Mauro Busso</h1>
 `Full stack software developer`
-<br/>
 
+
+<img align="left" width="1000px" height="300px" src="https://github.com/maurobusso/maurobusso/blob/main/rickgrowing.png" /> 
 
 <h3>Intro<h3/>
+
 
 Hello there, I'm a self-taught software engineer from Italy living in the UK. Currently working as a podiatrist :shoe: during the day and as a software developer during the night. I am committed into switching career and I have been studying software development for the past 5 months and I am now focusing on building projects for my portfolio. I love learning new things related to tech.
 
@@ -25,20 +25,21 @@ Hello there, I'm a self-taught software engineer from Italy living in the UK. Cu
 
 #
 
-<h3>Projects</h3>
+<h3>My projects</h3>
 
 #
 
-<h3>:computer: My coding journey :computer: </h3>
+<h3>:computer: My coding journey :computer:</h3>
+I first approached coding when I was 15, I became really interested and fascinated by it, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me.<br />
+<br />
+<br />
+About me:<br />
+-Love reading fantasy and personal development books <br />
+-Currently reading: Grokking Algorithms <br />
+-passionate about crypto <br />
+-Bsc degree in sport science <br />
+-Bsc degree in podiatry <br />
 
-I first approached coding when I was 15, I became really interested and fascinated by it, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me.
-
-About me
--currently reading: 
--passionate about crypto
--Bsc degree in sport science 
--Bsc degree in podiatry
--
 
 #
 
