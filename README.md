@@ -1,17 +1,15 @@
-<br><h1>Mauro Busso</h1>
-`Full stack software developer`
+# Mauro Busso 
+
+<img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
+
+# Intro
 
 
-<img align="left" width="1000px" height="300px" src="https://github.com/maurobusso/maurobusso/blob/main/rickgrowing.png" /> 
-
-<h3>Intro<h3/>
-
-
-Hello there, I'm a self-taught software engineer from Italy living in the UK. Currently working as a podiatrist :shoe: during the day and as a software developer during the night. I am committed into switching career and I have been studying software development for the past 5 months and I am now focusing on building projects for my portfolio. I love learning new things related to tech.
+Hello there, I'm a self-taught software developer from Italy living now in the UK. Currently working as a podiatrist :shoe: during the day and as a software developer during the night. I am committed into switching career and I have been studying software development for the past 5 months and I am now focusing on building projects for my portfolio. I love learning new things related to tech.
 
 #
 
-<h3>Languages and tools</h3>
+# Languages and tools
 
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -25,11 +23,11 @@ Hello there, I'm a self-taught software engineer from Italy living in the UK. Cu
 
 #
 
-<h3>My projects</h3>
+# My projects
 
 #
 
-<h3>:computer: My coding journey :computer:</h3>
+# :computer: My coding journey :computer:
 I first approached coding when I was 15, I always spent a lot of time on my dad's computer playing and doing anything I could think of. When a day I ask myselfe how does this computer works? how is it able to do what I want it to do? After some googleing I then stumble across binary code and languages that are used to talk to computers and I became really interested and fascinated by this aspect of tecnology, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, so I tried to learn from a textbook. it goes without saying that I miserably failed. However, the passion for tech stuck with me until I discovered 100Devs a free coding bootcamp that started during lock down to help people that were laid off developer new skill with the aim of obtaining a job in the tech industry. In addition, as one of my last project during university, I developed a website to help people through rehabilitation using wix however that made me realize how much I love building things and ultimately made me decide to take this to the next level and commit myself to switch career and become a software developer<br />
 <br />
 <br />
