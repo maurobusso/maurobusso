@@ -32,6 +32,7 @@ About me:<br />
 -Love reading fantasy and personal development books <br />
 -Currently reading:  Grokking Algorithms <br />
 -passionate about crypto <br />
+-Currently learning full stack JavaScript <br />
 -BSc degree in sport science <br />
 -BSc degree in podiatry <br />
 
