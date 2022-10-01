@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-Hello there, I'm a self-taught software developer from Italy, I have been living in the UK for the past 6 years. Currently working as a podiatrist :shoe: during the day and as a software developer during the night. I am committed into switching career and I have been studying software development for the past 5 months and I am now focusing on building projects for my portfolio. I love learning new things related to tech.
+Hello there, I'm a self-taught software developer from Italy, I have been living in the UK for the past 6 years. Currently working as a podiatrist :shoe: during the day and as a software developer during the night. I am committed into switching career and I have been studying software development for the past 5 months and I am now focusing on building projects for my portfolio and it is helping me to better understand what I have leant so far. 
 
 <br/>
 
