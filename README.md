@@ -29,10 +29,10 @@ I first approached coding when I was 15, I always spent a lot of time on my dad'
 <br />
 <br />
 About me:<br />
--Love reading fantasy and personal development books <br />
+-Love reading, expecially fantasy and personal development books <br />
 -Currently reading:  Grokking Algorithms <br />
--passionate about crypto <br />
--Learning full stack JavaScript <br />
+-passionate about crypto<br />
+-Love cooking <br />
 -BSc degree in sport science <br />
 -BSc degree in podiatry <br />
 
