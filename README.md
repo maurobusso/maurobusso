@@ -34,8 +34,7 @@ About me:<br />
 -Currently reading:  Grokking Algorithms <br />
 -passionate about crypto<br />
 -Love cooking <br />
--BSc degree in sport science <br />
--BSc degree in podiatry <br />
+-BSc degree in sport science and Podiatry <br />
 
 #
 
