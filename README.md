@@ -37,9 +37,11 @@ I have been studying software development for the past 5 months, in particular h
            <a href="https://github.com/maurobusso/Chrome-Extension">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
+           <!-- this is the link to the personal website (still need to be developed)
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
+           -->
          </p>
         <p><strong> Created using: HTML, CSS, Javascript </strong> 
         <br> - It is a simple chrome extension that allows to save an URL and come back to it later
@@ -57,9 +59,10 @@ I have been studying software development for the past 5 months, in particular h
            <a href="link to git ghub repo">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
+           <!-- this is the link to the personal website (still need to be developed)
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-           </a>
+           </a> -->
          </p>
         <p><strong> Created using:  </strong> 
         <br> - Description
@@ -79,9 +82,10 @@ I have been studying software development for the past 5 months, in particular h
            <a href="link to git ghub repo">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
+           <!-- this is the link to the personal website (still need to be developed)
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-           </a>
+           </a>-->
          </p>
         <p><strong> Created using:  </strong> 
         <br> - Description
@@ -99,9 +103,10 @@ I have been studying software development for the past 5 months, in particular h
            <a href="link to git ghub repo">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
+           <!-- this is the link to the personal website (still need to be developed)
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-           </a>
+           </a>-->
          </p>
         <p><strong> Created using:  </strong> 
         <br> - Description
