@@ -34,7 +34,7 @@ I have been studying software development for the past 5 months, in particular h
         </a>
         <br />
         <p align="center">
-           <a href="link to git ghub repo">
+           <a href="https://github.com/maurobusso/Chrome-Extension">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
            <a href="link to app" target="_blank">
