@@ -25,7 +25,8 @@ I have been studying software development for the past 5 months, in particular h
 
 <table >
   <tr>
-    <td width="50%" valign="top"> <!-- 1 project -->
+  <!-- 1 project -->
+    <td width="50%" valign="top"> 
       <h3 align="center">URL tracker</h3>
         <br />
         <a target="_blank" href="link to project">
@@ -44,7 +45,8 @@ I have been studying software development for the past 5 months, in particular h
         <br> - It is a simple chrome extension that allows to save an URL and come back to it later
         </p>
     </td>  
-     <td width="50%" valign="top"> <!-- 2 project -->
+    <!-- 2 project -->
+     <td width="50%" valign="top"> 
       <h3 align="center">Name of project</h3>
         <br />
         <a target="_blank" href="link to project">
@@ -59,13 +61,14 @@ I have been studying software development for the past 5 months, in particular h
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
          </p>
-        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <p><strong> Created using:  </strong> 
         <br> - Description
         </p>
     </td>
     </tr>
     <tr>
-     <td width="50%" valign="top"> <!-- 3 project -->
+    <!-- 3 project -->
+     <td width="50%" valign="top"> 
       <h3 align="center">Name of project</h3>
         <br />
         <a target="_blank" href="link to project">
@@ -80,10 +83,11 @@ I have been studying software development for the past 5 months, in particular h
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
          </p>
-        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <p><strong> Created using:  </strong> 
         <br> - Description
         </p>
     </td>
+    <!-- 4 project -->
      <td width="50%" valign="top">
       <h3 align="center">Name of project</h3>
         <br />
@@ -99,7 +103,7 @@ I have been studying software development for the past 5 months, in particular h
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
          </p>
-        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <p><strong> Created using:  </strong> 
         <br> - Description
         </p>
     </td>
