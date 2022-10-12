@@ -23,6 +23,89 @@ I have been studying software development for the past 5 months, in particular h
 
 # My projects
 
+<table >
+  <tr>
+    <td width="50%" valign="top"> <!-- 1 project -->
+      <h3 align="center">URL tracker</h3>
+        <br />
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="link to git ghub repo">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="link to app" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <br> - It is a simple chrome extension that allows to save an URL and come back to it later
+        </p>
+    </td>  
+     <td width="50%" valign="top"> <!-- 2 project -->
+      <h3 align="center">Name of project</h3>
+        <br />
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="link to git ghub repo">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="link to app" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <br> - Description
+        </p>
+    </td>
+    </tr>
+    <tr>
+     <td width="50%" valign="top"> <!-- 3 project -->
+      <h3 align="center">Name of project</h3>
+        <br />
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="link to git ghub repo">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="link to app" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <br> - Description
+        </p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Name of project</h3>
+        <br />
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="link to git ghub repo">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="link to app" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+        <p><strong> Created using: HTML, CSS, Javascript </strong> 
+        <br> - Description
+        </p>
+    </td>
+  </tr>
+</table>
+
 #
 
 # :computer: My coding journey :computer:
