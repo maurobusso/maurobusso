@@ -49,7 +49,7 @@ I have been studying software development for the past 5 months, in particular h
     </td>  
     <!-- 2 project -->
      <td width="50%" valign="top"> 
-      <h3 align="center">Name of project</h3>
+      <h3 align="center">comign soon</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
@@ -72,7 +72,7 @@ I have been studying software development for the past 5 months, in particular h
     <tr>
     <!-- 3 project -->
      <td width="50%" valign="top"> 
-      <h3 align="center">Name of project</h3>
+      <h3 align="center">comign soon</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
@@ -93,7 +93,7 @@ I have been studying software development for the past 5 months, in particular h
     </td>
     <!-- 4 project -->
      <td width="50%" valign="top">
-      <h3 align="center">Name of project</h3>
+      <h3 align="center">comign soon</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
