@@ -1,9 +1,8 @@
-# Mauro Busso 
+# Hello my friend
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-Hello there, I'm a self-taught software developer from Italy, with a background in health care and sport science. I have been living in the UK for the past 6 years and 
-I have been studying software development for the past 5 months, in particular have been focusing on HTML, CSS and JavaScript. I am now building projects for my portfolio. I am very excited for this new journey and very eager to learn as much as I can.
+My name is Mauro and I'm a self-taught software developer from Italy, with a background in health care and sport science. I have been living in the UK for the past 6 years and I have been studying software development for the past 5 months, in particular have been focusing on HTML, CSS and JavaScript. I am now building projects for my portfolio. I am very excited for this new journey and very eager to learn as much as I can.
 
 <br/>
 
