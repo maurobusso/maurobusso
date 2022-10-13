@@ -28,7 +28,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     <td width="50%" valign="top"> 
       <h3 align="center">URL tracker</h3>
         <br />
-        <a target="_blank" href="link to project">
+        <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
             <img src="gif" width="100%" alt="App imm"/>
         </a>
         <br />
