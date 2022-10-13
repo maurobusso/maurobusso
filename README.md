@@ -48,7 +48,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     </td>  
     <!-- 2 project -->
      <td width="50%" valign="top"> 
-      <h3 align="center">comign soon</h3>
+      <h3 align="center">comign soon...</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
@@ -71,7 +71,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     <tr>
     <!-- 3 project -->
      <td width="50%" valign="top"> 
-      <h3 align="center">comign soon</h3>
+      <h3 align="center">comign soon...</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
@@ -92,7 +92,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     </td>
     <!-- 4 project -->
      <td width="50%" valign="top">
-      <h3 align="center">comign soon</h3>
+      <h3 align="center">comign soon...</h3>
         <br />
         <a target="_blank" href="link to project">
             <img src="gif" width="100%" alt="App imm"/>
