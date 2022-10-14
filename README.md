@@ -29,7 +29,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
       <h3 align="center">URL tracker</h3>
         <br />
         <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
-            <img src="gif" width="100%" alt="#"/>
+            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%" alt="#"/>
         </a>
         <br />
         <p align="center">
