@@ -26,8 +26,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
   <tr>
   <!-- 1 project -->
     <td width="50%" valign="top"> 
-      <h3 align="center">URL tracker</h3>
-        <br />
+      <h3 align="center">-Browser extension for URL tracking-</h3>
         <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
             <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%" alt="#"/>
         </a>
