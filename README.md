@@ -1,4 +1,4 @@
-# Hello my friend
+# Hello my friend 
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
@@ -120,11 +120,10 @@ I first approached coding when I was 15, I always spent a lot of time on my dad'
 <br />
 <br />
 About me:<br />
--Love reading, expecially fantasy and personal development books <br />
--Currently reading:  Grokking Algorithms <br />
--passionate about crypto<br />
+-I love reading, I'm currently on, Grokking Algorithms <br />
+-passionate about crypto <br />
 -Love cooking <br />
--BSc degree in sport science and Podiatry <br />
+-BSc degree in Sport Science and Podiatry <br />
 
 #
 
