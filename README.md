@@ -120,7 +120,7 @@ I first approached coding when I was 15, I always spent a lot of time on my dad'
 <br />
 <br />
 About me:<br />
--I love reading, I'm currently on, Grokking Algorithms <br />
+-I love reading, I'm currently on, <a link='https://www.manning.com/books/grokking-algorithms'>Grokking Algorithms<a> <br />
 -passionate about crypto <br />
 -Love cooking <br />
 -BSc degree in Sport Science and Podiatry <br />
