@@ -50,7 +50,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
       <h3 align="center">comign soon...</h3>
         <br />
         <a target="_blank" href="link to project">
-            <img src="gif" width="100%" alt="App imm"/>
+            <img src="https://github.com/maurobusso/Blackjack_game/blob/main/blackjack.png" />
         </a>
         <br />
         <p align="center">
