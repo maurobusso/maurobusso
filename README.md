@@ -41,9 +41,15 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
            </a>
            -->
          </p>
-        <p><strong> Created using: HTML, CSS, Javascript </strong> 
-        <br> - It is a simple chrome extension that allows to save an URL and come back to it later
-        </p>
+         <p>
+            <strong> Created using: </strong>
+            <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+            <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+         </p> 
+         <p>
+          - This is a simple chrome extension that allows to save an URL and come back to it later
+         </p>
     </td>  
     <!-- 2 project -->
      <td width="50%" valign="top"> 
@@ -62,9 +68,15 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a> -->
          </p>
-        <p><strong> Created using:  </strong> 
-        <br> - Description
+        <p>
+            <strong> Created using: </strong>
+            <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+            <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
         </p>
+        <p>
+         - This is a one player blackjack game
+        </p>  
     </td>
     </tr>
     <tr>
