@@ -55,7 +55,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
      <td width="50%" valign="top"> 
       <h3 align="center">- Blackjack game -</h3>
         <br />
-        <a target="_blank" href="link to project">
+        <a target="_blank" href="https://github.com/maurobusso/Blackjack_game">
             <img src="https://github.com/maurobusso/Blackjack_game/blob/main/blackjack.png" />
         </a>
         <br />
