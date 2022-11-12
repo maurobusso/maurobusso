@@ -26,7 +26,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
 
 <table >
   <tr>
-  <!-- 1 project -->
+<!-- 1 project -->
     <td width="50%" valign="top"> 
       <h3 align="center">- Browser extension -</h3>
         <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
@@ -53,7 +53,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
           - This is a simple chrome extension that allows to save an URL and come back to it later
          </p>
     </td>  
-    <!-- 2 project -->
+<!-- 2 project -->
      <td width="50%" valign="top"> 
       <h3 align="center">- Blackjack game -</h3>
         <br />
@@ -81,12 +81,12 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     </td>
     </tr>
     <tr>
-    <!-- 3 project -->
+<!-- 3 project -->
      <td width="50%" valign="top"> 
-      <h3 align="center">comign soon...</h3>
+      <h3 align="center">- colour changer -</h3>
         <br />
-        <a target="_blank" href="link to project">
-            <img src="gif" width="100%" alt="App imm"/>
+        <a target="_blank" href="https://color-change-app.netlify.app">
+            <img width="100%" src="https://github.com/maurobusso/color-change-tool/blob/main/immage.jpg">
         </a>
         <br />
         <p align="center">
@@ -102,7 +102,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
         <br> - Description
         </p>
     </td>
-    <!-- 4 project -->
+<!-- 4 project -->
      <td width="50%" valign="top">
       <h3 align="center">comign soon...</h3>
         <br />
