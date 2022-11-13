@@ -50,7 +50,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
             <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
          </p> 
          <p>
-          - This is a simple chrome extension that allows to save an URL and come back to it later
+          - Simple chrome extension that allows to save an URL to the local storage and come back to it later.
          </p>
     </td>  
 <!-- 2 project -->
@@ -76,7 +76,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
             <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
         </p>
         <p>
-         - This is a one player blackjack game
+         - One player blackjack game.
         </p>  
     </td>
     </tr>
@@ -90,7 +90,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
         </a>
         <br />
         <p align="center">
-           <a href="link to git ghub repo">
+           <a href="https://github.com/maurobusso/colour-change-tool">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
            <!-- this is the link to the personal website (still need to be developed)
@@ -98,8 +98,12 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>-->
          </p>
-        <p><strong> Created using:  </strong> 
-        <br> - Description
+        <p>
+          <strong> Created using:  </strong> 
+          <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+          <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          <br> - This color changer app give the possibility of setting a base color and the increse of decrease the tone.
         </p>
     </td>
 <!-- 4 project -->
