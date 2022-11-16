@@ -30,7 +30,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
     <td width="50%" valign="top"> 
       <h3 align="center">- Browser extension -</h3>
         <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
-            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%" heigth="80%" alt="#"/>
+            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%" />
         </a>
         <br />
         <p align="center">
@@ -58,7 +58,7 @@ My name is Mauro and I'm a self-taught software developer from Italy, with a bac
       <h3 align="center">- Blackjack game -</h3>
         <br />
         <a target="_blank" href="https://github.com/maurobusso/Blackjack_game">
-            <img height="300px" src="https://github.com/maurobusso/Blackjack_game/blob/main/Game.png" />
+            <img width="100%" src="https://github.com/maurobusso/Blackjack_game/blob/main/Game.png" />
         </a>
         <br />
         <p align="center">
