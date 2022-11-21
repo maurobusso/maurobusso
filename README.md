@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-My name is Mauro and I'm a self-taught software developer from Italy, with a background in health care and sport science. I have been living in the UK for the past 6 years and I have been studying software development for the past 8 months, in particular have been focusing on HTML, CSS and JavaScript. I am now in the process of building some projects for my portfolio to gain some confidence with these tools. I find really exciting that there fact that there is always something new to learn.
+My name is Mauro and I'm a self-taught frontend software developer from Italy, with a background in health care. I really love building new things and find way to solve problems. One thing that I find captivating is the fact that there is always something new to learn and improvements are constantly made in the tech industry which makes it and an extremely exciting time to be working in this sector.
 
 <br/>
 
