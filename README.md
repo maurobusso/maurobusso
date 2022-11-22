@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-My name is Mauro and I'm a self-taught frontend software developer from Italy, with a background in health care. I really love building new things and find way to solve problems. One thing that I find captivating is the fact that there is always something new to learn and improvements are constantly made in the tech industry which makes it and an extremely exciting time to be working in this sector.
+My name is Mauro and I'm a self-taught frontend software developer from Italy, with a background in health care. I really love building new things and finding way to solve problems. One thing that I find captivating in tech is the fact that there is always something new to learn and improvements are constantly made, which to me   makes it extremely exciting to be work in this sector.
 
 <br/>
 
@@ -143,7 +143,8 @@ About me:<br />
 -I love reading, I'm currently on, Grokking Algorithms <br />
 -passionate about crypto <br />
 -Love cooking <br />
--BSc degree in Sport Science and Podiatry <br />
+-BSc degree in Podiatry <br />
+-Avid lister of podcasts. (Syntax,Lex Friman, JavaScript Jabber, Modern Web)
 
 #
 
