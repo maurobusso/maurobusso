@@ -140,11 +140,11 @@ I first approached coding when I was 13, I always spent a lot of time on my dad'
 <br />
 <br />
 About me:<br />
--I love reading, I'm currently on, Grokking Algorithms <br />
--passionate about crypto <br />
--Love cooking <br />
--BSc degree in Podiatry <br />
--Avid lister of podcasts. (Syntax,Lex Friman, JavaScript Jabber, Modern Web)
+-I love reading, I'm currently on, Grokking Algorithms. <br />
+-Passionate about crypto. <br />
+-Love cooking. <br />
+-BSc degree in Podiatry. <br />
+-Avid listener of podcasts. (Syntax,Lex Friman, JavaScript Jabber, Modern Web)
 
 #
 
