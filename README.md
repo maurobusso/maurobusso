@@ -136,8 +136,7 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
 #
 
 # :computer: My coding journey :computer:
-I first approached coding when I was 13, I always spent a lot of time on my dad's computer playing and doing anything I could think of. When a day I got curios about how that computer was able to work.? After some googling, I then stumble across binary code and programming languages that are used to talk to computers. I became really interested and fascinated by this aspect of technology, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, and I tried to learn from a textbook. It goes without saying that I miserably failed. However, the passion for tech stuck with me. Until a year ago where I was making my last project during university, where I developed a website to help people through rehabilitation using Wix. This made me realize how much I love building websites then I subsequently started to learn about HTML, CSS, and JavaScript and that was the point where I decided to switch career and become a software developer. </br>
-</br> I have been learning and coding ever since.
+I first approached coding when I was 13, I always spent a lot of time on my dad's computer playing and doing anything I could think of. When a day I got curios about how that computer was able to work.? After some googling, I then stumble across binary code and programming languages that are used to talk to computers. I became really interested and fascinated by this aspect of technology, so much so that I tried to teach myself phyton. However, at that time there were not many resources available and there were even less available in Italian, and I tried to learn from a textbook. It goes without saying that I miserably failed. However, the passion for tech stuck with me. Until a year ago where I was making my last project during university, where I developed a website to help people through rehabilitation using Wix. This made me realize how much I love building websites then I subsequently started to learn about HTML, CSS, and JavaScript and that was the point where I decided to switch career and become a software developer... And I have been learning and coding ever since.
 <br />
 <br />
 <br />
@@ -146,7 +145,7 @@ About me:<br />
 - :lock: Passionate about crypto. <br />
 - :hocho: Love cooking. <br />
 - :mortar_board: BSc degree in Podiatry. <br />
-- :musical_note: Avid listener of podcasts. (Syntax,Lex Friman, JavaScript Jabber, Modern Web)
+- :musical_note: Avid listener of podcasts. (Syntax, Lex Friman, JavaScript Jabber, Modern Web)
 
 #
 
