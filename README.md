@@ -25,7 +25,7 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
 
 # My projects
 
-<table max-width="100%">
+<table max-width="250px">
   <tr>
 <!-- 1 project -->
     <td width="50%" valign="top"> 
