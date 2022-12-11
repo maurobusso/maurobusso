@@ -50,9 +50,7 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
             <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
             <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
          </p> 
-         <p>
-          - Simple chrome extension that allows to save an URL to the local storage and come back to it later.
-         </p>
+         <p> - Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
     </td>  
 <!-- 2 project -->
      <td width="50%" valign="top"> 
@@ -122,16 +120,64 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
            <a href="link to git ghub repo">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
-           <!-- this is the link to the personal website (still need to be developed)
+           <!-- this is the link to the personal website (still need to be developed)-->
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-           </a>-->
+           </a>
          </p>
         <p><strong> Created using:  </strong> 
         <br> - Description
         </p>
     </td>
-  </tr>
+    </tr>
+    <tr>
+<!-- 5 project -->      
+      <td width="50%" valign="top">
+       <h3 align="center">comign soon...</h3>
+        <br />
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="link to git ghub repo">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <!-- this is the link to the personal website (still need to be developed)-->
+           <a href="link to app" target="_blank">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+        <p><strong> Created using:</strong> 
+        <br> - Description
+        </p>
+     </td>
+<!-- 6 project -->      
+     <td width="50%" valign="top"> 
+      <h3 align="center">- coming soon -</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img width="100%" src="#" />
+        </a>
+        <br />
+         <p align="center">
+           <a href="#">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+           </a>  
+           <a href="#">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
+         </p>
+         <p>
+           <strong> Created using: </strong>
+<!--            <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+           <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+           <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  -->
+        </p>
+        <p> ... </p>  
+    </td>
+    </tr>
+    <tr>
 </table>
 
 #
