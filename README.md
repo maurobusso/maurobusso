@@ -50,7 +50,7 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
             <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
             <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
          </p> 
-         <p> - Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
+         <p>- Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
     </td>  
 <!-- 2 project -->
      <td width="50%" valign="top"> 
@@ -69,14 +69,12 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
            </a>
          </p>
         <p>
-            <strong> Created using: </strong>
-            <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-            <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-            <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+          <strong> Created using: </strong>
+          <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+          <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
         </p>
-        <p>
-         - One player blackjack game.
-        </p>  
+        <p>- One player blackjack game.</p>  
     </td>
     </tr>
     <tr>
@@ -110,14 +108,14 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
     </td>
 <!-- 4 project -->
      <td width="50%" valign="top">
-      <h3 align="center">comign soon...</h3>
+      <h3 align="center">- Browser extension -</h3>
         <br />
-        <a target="_blank" href="link to project">
-            <img src="gif" width="100%" alt="App imm"/>
+        <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
+            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%"/>
         </a>
         <br />
         <p align="center">
-           <a href="link to git ghub repo">
+           <a href="https://github.com/maurobusso/Chrome-Extension">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
            <!-- this is the link to the personal website (still need to be developed)-->
@@ -125,9 +123,13 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
          </p>
-        <p><strong> Created using:  </strong> 
-        <br> - Description
-        </p>
+        <p>
+          <strong> Created using: </strong>
+          <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+          <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+          <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+        </p> 
+        <p>- Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
     </td>
     </tr>
     <tr>
