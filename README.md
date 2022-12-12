@@ -29,13 +29,13 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
   <tr>
 <!-- 1 project -->
     <td width="50%" valign="top"> 
-      <h3 align="center">- Browser extension -</h3>
+      <h3 align="center">- Travel Journal -</h3>
         <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
-            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%" />
+            <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%" />
         </a>
         <br />
         <p align="center">
-           <a href="https://github.com/maurobusso/Chrome-Extension">
+           <a href="https://github.com/maurobusso/Travel-journal-solo-project">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
            <!-- this is the link to the personal website (still need to be developed)
@@ -45,12 +45,14 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
            -->
          </p>
          <p>
-            <strong> Created using: </strong>
-            <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-            <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-            <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+           <strong> Created using: </strong>
+           <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+           <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+           <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+           <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+         <br>
          </p> 
-         <p>- Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
+         <p>- This project was inspired by the Scrimba react course as a final solo project at the end of the second module of the course. It is a static page that display different location with immages and a brief description and a link to the google map location.</p>
     </td>  
 <!-- 2 project -->
      <td width="50%" valign="top"> 
