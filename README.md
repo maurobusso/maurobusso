@@ -37,7 +37,10 @@ My name is Mauro and I'm a self-taught frontend software developer from Italy, w
         <p align="center">
            <a href="https://github.com/maurobusso/Travel-journal-solo-project">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-           </a>  
+           </a>
+           <a href="https://mauro-travel-journal.netlify.app">
+             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+           </a>
            <!-- this is the link to the personal website (still need to be developed)
            <a href="link to app" target="_blank">
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
