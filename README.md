@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-My name is Mauro and I'm a self-taught frontend software developer, with a background in health care. I really love building new things and finding way to solve problems. One thing that I find captivating in tech is the fact that there is always something new to learn and improvements are constantly made, which to me makes it extremely exciting to be working in this sector.
+My name is Mauro and I'm a self-taught frontend software developer, with a background in health care. 
 
 <br/>
 
