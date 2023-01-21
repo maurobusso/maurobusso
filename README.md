@@ -2,8 +2,10 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-My name is Mauro and I'm a self-taught frontend software developer, with a background in health care. 
+My name is Mauro and I'm a self-taught frontend software developer, with a background in health care. Curretly learning Full-stack web development and building solo projects and some group projects.  
 
+<br/>
+<br/>
 <br/>
 
 # Languages and tools
