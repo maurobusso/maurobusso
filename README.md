@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-I'm a self-taught frontend software developer, with a background in health care. Curretly learning and improving my front-end skills by building some solo projects. But I am also curios in the back-end and I try to learn as much as I can to develope my career as much as possible.
+I'm a self-taught frontend software developer, with a background in health care. Curretly learning and improving my front-end skills by building some solo projects. But I am also curios in the back-end and I try to learn as much as I can to develope my career.
 
 <br/>
 <br/>
