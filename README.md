@@ -114,15 +114,15 @@ I'm a self-taught frontend software developer, with a background in health care.
         </p>
     </td>
 <!-- 4 project -->
-     <td width="50%" valign="top">
-      <h3 align="center">- Browser extension -</h3>
+      <td width="50%" valign="top">
+       <h3 align="center">comign soon...</h3>
         <br />
-        <a target="_blank" href="brave://extensions/?id=gjfejbeahhdnmelbcfoafcbidelfcdjm">
-            <img src="https://github.com/maurobusso/Chrome-Extension/blob/main/Extension.jpg" width="100%"/>
+        <a target="_blank" href="link to project">
+            <img src="gif" width="100%" alt="App imm"/>
         </a>
         <br />
         <p align="center">
-           <a href="https://github.com/maurobusso/Chrome-Extension">
+           <a href="link to git ghub repo">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
            </a>  
            <!-- this is the link to the personal website (still need to be developed)-->
@@ -130,14 +130,10 @@ I'm a self-taught frontend software developer, with a background in health care.
              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
            </a>
          </p>
-        <p>
-          <strong> Created using: </strong>
-          <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-          <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-          <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-        </p> 
-        <p>- Simple chrome extension that allows to save an URL to the local storage and come back to it later.</p>
-    </td>
+        <p><strong> Created using:</strong> 
+        <br> - Description
+        </p>
+     </td>
     </tr>
     <tr>
 <!-- 5 project -->      
