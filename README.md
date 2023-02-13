@@ -1,4 +1,4 @@
-# Hello there! I am Mauro my software developer journey started in 2021!
+# Hello there! I am Mauro, my software developer journey started in 2021!
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
