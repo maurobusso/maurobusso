@@ -17,13 +17,22 @@ I'm a self-taught frontend software developer, with a background in health care.
 <img align="left" alt="NodeJS" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
 <img align="left" alt="Express" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>      
 <img align="left" alt="Git" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align="left" alt="GitHub" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img align="left" alt="GitHub" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="MongoDB" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
+<img align="left" alt="Tailwind" width="15%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
 
-#
+
+
+<br />
+<br />
 
 # My projects
 
