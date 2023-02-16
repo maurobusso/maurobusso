@@ -38,6 +38,7 @@ I'm a self-taught frontend software developer, with a background in health care.
 
 <table>
   <tr>
+    
 <!-- 1 project -->
     <td width="50%" valign="top"> 
       <h3 align="center">- Travel Journal -</h3>
