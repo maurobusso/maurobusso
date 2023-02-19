@@ -194,123 +194,126 @@ I'm a self-taught frontend software developer, with a background in health care.
     </tr>
     <tr>
 </table>
-
+-----
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Virtual Studio</h3>
+      <h3 align="center">title</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.cyclic.app/">
-            <img src="vs1.gif" width="100%" alt="Visual Studio App"/>
+            <img src="img" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jalonghurst/VirtualStudio" target="_blank">
+  <a href="repo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://virtualstudio.onrender.com/" target="_blank">
+  <a href="app link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MVC: Javascript, MongoDB, DaisyUI/Tailwind, Node.js, & Express.js</strong> - VirtualStudio is a virtual gallery space that allows artists and creatives to showcase their work in an online, accessible format.</p>
+        <p><strong></strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">PrimePay</h3>
+      <h3 align="center">Travel Journal</h3>
         <br />
       <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
-            <img src="primepay.gif" width="100%"  alt="PrimePay: Payment Provider Web Layout"/>
+            <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jalonghurst/PrimePay" target="_blank">
+  <a href="https://github.com/maurobusso/Travel-journal-solo-project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://jalonghurst.github.io/PrimePay/" target="_blank">
+  <a href="app link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5 & CSS</strong> - A responsive web layout for a payment provider, online banking/financial service.</p>
+        <p><strong>Javascript, HTML5 & CSS</strong> </p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">JacquiLonghurst.com</h3>
-      <br />
-        <a target="_blank" href="https://jacquilonghurst.netlify.app/">
-          <img src="profile.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/jalonghurst/developer-portfolio-2023" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jacquilonghurst.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NASA Space Data App</h3>
+      <h3 align="center">title</h3>
         <br />
-        <a target="_blank" href="https://jalonghurst.github.io/NASA-space-data/">
-          <img src="nasa.gif" width="100%" alt="NASA Space Data App"/>
+        <a target="_blank" href="https://virtualstudio.cyclic.app/">
+            <img src="img" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/jalonghurst/NASA-space-data" target="_blank">
+  <a href="repo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jalonghurst.github.io/NASA-space-data/" target="_blank">
+  </a>  
+  <a href="app link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A web app which fetches and displays space data from various NASA sourced APIs.</p>
+        <p><strong></strong> </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">title</h3>
+        <br />
+      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+            <img src="img" width="100%"  alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="repo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="app link" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5 & CSS</strong> </p>
     </td>
   </tr>
-   
+  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Group Project: A Green Energy Ecommerce Store</h3>
-      <br />
-        <a target="_blank" href="https://github.com/jalonghurst/Green-Energy-ECommerce">
-          <img src="logincapture-ecomm.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/jcintron82/Green-Energy-ECommerce" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://github.com/jcintron82/Green-Energy-ECommerce" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong> MVC Architecture Application: Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, GoogleAuth. </strong> - An ecommerce platform promoting residential green energy products such as solar panels!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Together: Latest open source contribution</h3>
+      <h3 align="center">title</h3>
         <br />
-        <a target="_blank" href="https://github.com/jalonghurst/Together">
-          <img src="together.png" width="100%" alt="Together Group Application"/>
+        <a target="_blank" href="https://virtualstudio.cyclic.app/">
+            <img src="img" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Caleb-Cohen/Together" target="_blank">
+  <a href="repo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://together.cyclic.app/" target="_blank">
+  </a>  
+  <a href="app link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, Tailwind.css, Node.js, Express.js, JavaScript, MongoDB, Passport.js</strong> -Together is a group calendar application using the MERN stack intended to bring discord communities closer!</p>
+        <p><strong></strong> </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">title</h3>
+        <br />
+      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+            <img src="img" width="100%"  alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="repo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="app link" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5 & CSS</strong> </p>
     </td>
   </tr>
+  
 </table>
 
 #
