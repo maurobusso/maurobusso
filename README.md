@@ -238,36 +238,40 @@ I'm a self-taught frontend software developer, with a background in health care.
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">title</h3>
+      <h3 align="center">Blackjack game</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.cyclic.app/">
-            <img src="img" width="100%" alt=""/>
+            <img src="https://github.com/maurobusso/Blackjack_game/blob/main/img.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="repo" target="_blank">
+  <a href="https://github.com/maurobusso/Blackjack_game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="app link" target="_blank">
+  <a href="https://blackjack-game-mauro.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong></strong> </p>
+        <strong> Created using: </strong>
+        <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+        <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+        <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+        <p> This is a one player blackjack game.</p> 
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">title</h3>
+      <h3 align="center">colour changer</h3>
         <br />
       <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
-            <img src="img" width="100%"  alt=""/>
+            <img src="https://github.com/maurobusso/color-change-tool/blob/main/immage.jpg" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="repo" target="_blank">
+  <a href="https://github.com/maurobusso/colour-change-tool" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="app link" target="_blank">
+  <a href="https://color-change-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -277,7 +281,7 @@ I'm a self-taught frontend software developer, with a background in health care.
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">title</h3>
+      <h3 align="center">coming soon...</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.cyclic.app/">
             <img src="img" width="100%" alt=""/>
@@ -295,7 +299,7 @@ I'm a self-taught frontend software developer, with a background in health care.
         <p><strong></strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">title</h3>
+      <h3 align="center">coming soon...</h3>
         <br />
       <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
             <img src="img" width="100%"  alt=""/>
