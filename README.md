@@ -60,7 +60,7 @@ I'm a self-taught frontend software developer, with a background in health care.
         <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-        <p> This application allows you to calculate the ammount of local anaesthetic that can be safely injecten into a patient.</p> 
+        <p>This application allows you to calculate the amount of local anaesthetic that can be safely injected into a patient.</p> 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Travel Journal</h3>
