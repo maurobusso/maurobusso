@@ -40,10 +40,10 @@ I'm a self-taught frontend software developer, with a background in health care.
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Maximum Safe Dosage calculator for podiatrists</h3>
+      <h3 align="center">Maximum Safe Dosage calculator</h3>
         <br />
         <a target="_blank" href="https://virtualstudio.cyclic.app/">
-            <img src="https://github.com/maurobusso/msd-app/blob/main/msd%20imgae.png" width="50%" alt=""/>
+            <img src="https://github.com/maurobusso/msd-app/blob/main/msd%20imgae.png" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
