@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-I am Mauro, my software developer journey started in 2021! I'm a self-taught full-stack software developer, with a background in health care. Curretly learning and improving my front-end skills by building some solo projects. 
+I am Mauro, my software developer journey started in 2021! I'm a self-taught full-stack software developer, with a background in health care. Curretly learning and improving my front-end skills by building some solo projects. Mainly focused on the MERN stack but interested in expand my knowledge in the future.
 
 <br/>
 <br/>
