@@ -37,56 +37,52 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
 # My projects
 
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Maximum Safe Dosage calculator</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="https://github.com/maurobusso/msd-app/blob/main/msd%20imgae.png" width="100%" alt=""/>
+      <br />
+      <a target="_blank" href="https://virtualstudio.cyclic.app/">
+        <img src="https://github.com/maurobusso/msd-app/blob/main/msd%20imgae.png" width="100%" alt=""/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/maurobusso/msd-app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://msd-app.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/maurobusso/msd-app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://msd-app.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <strong> Created using: </strong>
-        <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-        <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
-        <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-        <p>This application allows you to calculate the amount of local anaesthetic that can be safely injected into a patient.</p> 
+      <strong> Created using: </strong>
+      <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+      <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
+      <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+      <p>This application allows you to calculate the amount of local anaesthetic that can be
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Travel Journal</h3>
+        <h3 align="center">Explore Space</h3>
         <br />
-      <a target="_blank" href="">
+        <a target="_blank" href="">
             <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="https://github.com/maurobusso/Travel-journal-solo-project" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://mauro-travel-journal.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+        <p align="center">          
+          <a href="https://github.com/maurobusso/Explore-Space" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://explore-space-app.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
         <strong> Created using: </strong>
         <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
         <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+        <img alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <p> Static page inspired by Scrimba React course.</p> 
+        <p>This app allow the user to fetch data from the famous nasa API to obtain some information and display iamges of our amazing universe.</p> 
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Blackjack game</h3>
@@ -150,25 +146,28 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
         <p><strong></strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">coming soon...</h3>
-        <br />
+      <h3 align="center">Travel Journal</h3>
+      <br />
       <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
-            <img src="img" width="100%"  alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="repo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="app link" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
+      </a>
+      <br />
+      <p align="center">   
+      <a href="https://github.com/maurobusso/Travel-journal-solo-project" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>
+      <a href="https://mauro-travel-journal.netlify.app" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+      </a>
       </p>
-        <p><strong>Javascript, HTML5 & CSS</strong> </p>
+      <strong> Created using: </strong>
+      <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+      <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+      <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <p> Static page inspired by Scrimba React course.</p> 
     </td>
   </tr>
-  
 </table>
 
 #
