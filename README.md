@@ -42,7 +42,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">Maximum Safe Dosage calculator</h3>
         <br />
-        <a target="_blank" href="https://virtualstudio.cyclic.app/">
+        <a target="_blank" href="">
             <img src="https://github.com/maurobusso/msd-app/blob/main/msd%20imgae.png" width="100%" alt=""/>
         </a>
         <br />
@@ -65,7 +65,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">Travel Journal</h3>
         <br />
-      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+      <a target="_blank" href="">
             <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
         </a>
         <br />
