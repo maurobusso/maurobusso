@@ -63,7 +63,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
         <h3 align="center">Explore Space</h3>
         <br />
-        <a target="_blank" href="https://github.com/maurobusso/Explore-Space/blob/main/explore-space.png">
+        <a target="_blank" href="https://github.com/maurobusso/Explore-Space">
             <img src="https://github.com/maurobusso/Explore-Space/blob/main/explore-space.png" width="100%"  alt=""/>
         </a>
         <br />
