@@ -41,7 +41,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">Maximum Safe Dosage calculator</h3>
       <br />
-      <a target="_blank" href="https://virtualstudio.cyclic.app/">
+      <a target="_blank" href="https://github.com/maurobusso/msd-app">
         <img src="https://github.com/maurobusso/msd-app/blob/main/msd-img.png" width="100%" alt=""/>
       </a>
       <br />
@@ -63,7 +63,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
         <h3 align="center">Explore Space</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/maurobusso/Explore-Space/blob/main/explore-space.png">
             <img src="https://github.com/maurobusso/Explore-Space/blob/main/explore-space.png" width="100%"  alt=""/>
         </a>
         <br />
@@ -87,7 +87,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">Blackjack game</h3>
         <br />
-        <a target="_blank" href="https://virtualstudio.cyclic.app/">
+        <a target="_blank" href="https://github.com/maurobusso/Blackjack_game">
             <img src="https://github.com/maurobusso/Blackjack_game/blob/main/img.png" width="100%" alt=""/>
         </a>
         <br />
@@ -109,7 +109,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">colour changer</h3>
         <br />
-      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+      <a target="_blank" href="https://github.com/maurobusso/colour-change-tool">
             <img src="https://github.com/maurobusso/color-change-tool/blob/main/immage.jpg" width="100%"  alt=""/>
         </a>
         <br />
@@ -148,7 +148,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
     <td width="50%" valign="top">
       <h3 align="center">Travel Journal</h3>
       <br />
-      <a target="_blank" href="https://jalonghurst.github.io/PrimePay/">
+      <a target="_blank" href="https://github.com/maurobusso/Travel-journal-solo-project">
         <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
       </a>
       <br />
