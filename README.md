@@ -39,7 +39,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Maximum Safe Dosage calculator</h3>
+      <h3 align="center">Calculator for Local Anaesthetic</h3>
       <br />
       <a target="_blank" href="https://github.com/maurobusso/msd-app">
         <img src="https://github.com/maurobusso/msd-app/blob/main/msd-img.png" width="100%" alt=""/>
