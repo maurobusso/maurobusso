@@ -104,7 +104,9 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
         <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
         <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-        <p> This is a one player blackjack game.</p> 
+        <p> 
+            This is a one player blackjack game inspired by the Scrimba developer course, but improved with the utilisation of a deck of card API which gives the ability of also showing the image of the card which                   originally was not present.
+        </p> 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">colour changer</h3>
