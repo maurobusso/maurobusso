@@ -108,23 +108,29 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
             This is a one player blackjack game inspired by the Scrimba developer course, but improved with the utilisation of a deck of card API which gives the ability of also showing the image of the card which                   originally was not present.
         </p> 
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">colour changer</h3>
+    <td width="50%" height="50%" valign="top">
+      <h3 align="center">Personal Portfolio</h3>
         <br />
-      <a target="_blank" href="https://github.com/maurobusso/colour-change-tool">
-            <img src="https://github.com/maurobusso/color-change-tool/blob/main/immage.jpg" width="100%"  alt=""/>
+      <a target="_blank" href="https://maurobusso.netlify.app/">
+            <img src="https://github.com/maurobusso/personal-website/blob/main/src/Assets/portfolio-tumb-nail.png" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/maurobusso/colour-change-tool" target="_blank">
+  <a href="https://github.com/maurobusso/personal-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://color-change-app.netlify.app/" target="_blank">
+  <a href="https://maurobusso.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5 & CSS</strong> </p>
+        <p>
+          <strong> Created using: </strong>
+          <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+          <img alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
+          <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          <p>Description</p> 
+        </p>
     </td>
   </tr>
   
