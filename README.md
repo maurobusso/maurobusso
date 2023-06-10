@@ -175,7 +175,13 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
 #
 
 # :computer: My coding journey :computer:
-I first approached coding when I was 13, I always spent a lot of time on my dad's computer and I became quickly fascinated by it. So much so, that I tried to teach myself phyton. However, at that time there were not many resources available and even less available in Italian. It goes without saying that I miserably failed. However, the passion for tech stuck with me. Until a couple of years ago where I was making my last project during university, where I developed a website to help people through rehabilitation using Wix. This made me realize how much I love building websites then I subsequently started to learn about HTML, CSS, and JavaScript and that was the point where I decided to switch career and become a software developer... And I have been constantly pushed myself to learn and improve ever since.
+At the age of 13, I discovered my passion for coding while exploring my dad's computer. Despite the limited resources and a lack of learning materials in my native language, I began teaching myself Python. Although I faced initial challenges and setbacks, my love for technology never wavered.
+
+During my university years, I worked on a project using Wix to create a website that helped people with rehabilitation. It was then that I realized my deep affinity for web development. Motivated by this newfound passion, I dived into learning HTML, CSS, and JavaScript. This marked the turning point in my career, as I decided to transition into software development.
+
+Since then, I have embraced continuous learning, leveraging online resources and engaging with coding communities. Through perseverance and tackling challenging projects, I have sharpened my skills and grown as a developer.
+
+As a self-taught professional, my journey has been marked by determination and an unwavering commitment to personal growth. I am now equipped with the knowledge and skills to contribute to the ever-evolving field of software development. I look forward to making a meaningful impact and collaborating with like-minded professionals in creating innovative solutions.
 <br />
 <br />
 <br />
