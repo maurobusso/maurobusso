@@ -129,7 +129,7 @@ I am Mauro, I'm a self-taught full-stack software developer, with a background i
           <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
           <img alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
           <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          <p>Description</p> 
+          <p>My goal with this project was to create a personal portfolio to showcase all of my developer work and make it easily accessible.</p> 
         </p>
     </td>
   </tr>
