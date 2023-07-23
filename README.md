@@ -60,7 +60,7 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
       <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
       <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
       <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-      <p>This application allows you to calculate the amount of local anaesthetic that can be
+      <p>This application allows you to calculate the amount of local anaesthetic that can be </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Explore Space</h3>
