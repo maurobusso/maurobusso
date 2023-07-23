@@ -66,7 +66,7 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
         <h3 align="center">Explore Space</h3>
         <br />
         <a target="_blank" href="https://github.com/maurobusso/Explore-Space">
-            <img src="https://github.com/maurobusso/Explore-Space/blob/main/explore-space.png" width="100%"  alt=""/>
+            <img src="https://github.com/maurobusso/Explore-Space/blob/main/explore-space-tumbnail.png" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">          
