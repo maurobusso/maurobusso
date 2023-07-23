@@ -60,7 +60,7 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
       <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
       <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
       <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-      <p>This application allows you to calculate the amount of local anaesthetic that can be </p>
+      <p>Fraser Foot Care App is a client project aimed at providing comprehensive foot care services to our clients. This user-friendly web application allows patients to easily schedule appointments, access informative resources, and stay up-to-date with the latest news and services offered by Fraser Foot Care.</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Explore Space</h3>
