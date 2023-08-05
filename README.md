@@ -10,17 +10,42 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
 
 # Languages and tools
 
-<img align="left" alt="HTML" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" alt="CSS" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="JavaScript" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="typescript" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="left" alt="NodeJS" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
-<img align="left" alt="Express" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>      
-<img align="left" alt="Git" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align="left" alt="GitHub" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="MongoDB" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
-<img align="left" alt="Tailwind" width="15%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<div style="padding: 6%;">
+  <img align="left" alt="HTML" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+</div>
+<div style="padding: 6%;">
+  <img align="left" alt="CSS" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="JavaScript" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="typescript" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="React" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="NodeJS" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="Express" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>      
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="Git" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="GitHub" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="MongoDB" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
+</div>  
+<div style="padding: 6%;">
+  <img align="left" alt="Tailwind" width="15%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+</div>  
+
+
+
 <br />
 <br />
 <br />
