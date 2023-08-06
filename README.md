@@ -215,13 +215,11 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
 #
 
 # :computer: My coding journey :computer:
-At the age of 13, I discovered my passion for coding while exploring my dad's computer. Despite the limited resources and a lack of learning materials in my native language, I began teaching myself Python. Although I faced initial challenges and setbacks, my love for technology never wavered.
+At the age of 13, I discovered my passion for tech while exploring my parents' Windows 98 PC. My brother and I would visit the recycling center, where we picked up discarded computers to take them apart and explore their inner workings.
 
-During my university years, I embarked on a project using Wix to create a website aimed at helping people with rehabilitation. This experience unveiled a deep affinity for web development within me. Motivated by this newfound passion, I delved into learning HTML, CSS, and JavaScript, marking a pivotal turning point in my career as I decided to transition into software development.
+During my university years, I worked on a project using Wix to create a website that helped people with rehabilitation. It was then that I realized my deep affinity for web development. Motivated by this newfound passion, I dived into learning HTML, CSS, and JavaScript. This marked the turning point in my career, as I decided to transition into software development.
 
-Since then, I have embraced a journey of continuous learning, leveraging online resources, and actively engaging with coding communities. Through perseverance and tackling challenging projects, I have honed my skills and grown as a developer.
-
-As a self-taught professional, my path has been marked by determination and an unwavering commitment to personal growth. I am now equipped with the knowledge and skills to make a meaningful impact in the ever-evolving field of software development. I eagerly look forward to collaborating with like-minded professionals to create innovative solutions.
+Since then, I have embraced continuous learning, leveraging online resources and engaging with coding communities. Through perseverance and tackling challenging projects, I have sharpened my skills and grown as a developer.
 <br />
 <br />
 <br />
