@@ -188,26 +188,30 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
         </p> 
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Travel Journal</h3>
+      <h3 align="center">Birthday Reminder</h3>
       <br />
-      <a target="_blank" href="https://github.com/maurobusso/Travel-journal-solo-project">
-        <img src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png" width="100%"  alt=""/>
+      <a target="_blank" href="https://github.com/maurobusso/Birthday-Reminder">
+        <img src="https://github.com/maurobusso/Birthday-Reminder/blob/main/public/assets/birthday-project-img.png" width="90%"  alt=""/>
       </a>
       <br />
       <p align="center">   
-      <a href="https://github.com/maurobusso/Travel-journal-solo-project" target="_blank">
+      <a href="https://github.com/maurobusso/Birthday-Reminder" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>
-      <a href="https://mauro-travel-journal.netlify.app" target="_blank">
+      <a href="https://birthday-app-u9ct.onrender.com" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
       </p>
       <strong> Created using: </strong>
       <img alt="HTML" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
       <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img alt="tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+      <img alt="Node" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img alt="Express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      <img alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
       <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
       <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <p> Static page inspired by Scrimba React course.</p> 
+      <p> The main goal of this project was to enhance back-end development skills while creating a practical application to store and manage birthdays. The app allows users to add, update, and delete birthdays, which             are then stored in a database. Users can later access these birthdays or get reminders.</p> 
     </td>
   </tr>
 </table>
