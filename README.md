@@ -137,7 +137,7 @@ I am Mauro, I'm a full-stack software developer, with a background in health car
       <h3 align="center">Personal Portfolio</h3>
         <br />
         <a target="_blank" href="https://maurobusso.netlify.app/">
-          <img src="https://github.com/maurobusso/personal-website/blob/main/src/Assets/personal-portfolio.png" height="300" width="450" alt=""/>
+          <img src="https://github.com/maurobusso/personal-website/blob/main/src/Assets/personal-portfolio.png" alt=""/>
         </a>
         <br />
         <p align="center">
