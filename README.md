@@ -2,7 +2,9 @@
 
 <img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
 
-I am Mauro, I'm a full-stack software developer, with a background in health care. My software developer journey started in 2021. While my primary focus is web development, I have a strong desire to expand my knowledge as a developer. Recently, I have been delving into Linux and actively staying updated on emerging technologies that will shape the future.
+I am Mauro, I'm a full-stack software developer, with a background in health care. My software developer journey started in 2021. 
+
+While my primary focus is web development, I have a strong desire to expand my knowledge as a developer. Recently, I have been delving into Linux and actively staying updated on emerging technologies.
 
 <br/>
 <br/>
