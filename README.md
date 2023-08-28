@@ -228,11 +228,11 @@ Since then, I have embraced continuous learning, leveraging online resources and
 <br />
 <br />
 About me:<br />
-- 📖: I love reading, expecially sci-fi and fantasy. However I'm currently reading, Grokking Algorithms to improve my data structure and algorithms. <br />
-- 🔒: Passionate about crypto. <br />
-- 🍴: Love cooking. <br />
-- 🐧: Recently started tinkering with Linux and Raspberry pi <br />
-- 🎵: Avid listener of podcasts. (Syntax, Lex Friman, JavaScript Jabber, Modern Web)
+- 📖 I love reading, expecially sci-fi and fantasy. However I'm currently reading, Grokking Algorithms to improve my data structure and algorithms. <br />
+- 🔒 Passionate about crypto. <br />
+- 🍴 Love cooking. <br />
+- 🐧 Recently started tinkering with Linux and Raspberry pi <br />
+- 🎵 Avid listener of podcasts. (Syntax, Lex Friman, JavaScript Jabber, Modern Web)
 
 #
 
