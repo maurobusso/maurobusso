@@ -218,14 +218,16 @@ While my primary focus is web development, I have a strong desire to expand my k
   </tr>
 </table>
 
-#
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats)
+  
+</div>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/maurobusso/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/MauroBusso4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
 <a href="mailto:mauro.busso12@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/107254152/192117495-48f525bb-451a-4be3-a97f-3975f3648831.png"></a>
-
-
 
 <p  align="center">
   <!--<img src="https://visitor-badge.glitch.me/badge?page_id=maurobusso" alt="visitor badge"/>-->
