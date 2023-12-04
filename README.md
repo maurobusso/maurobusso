@@ -220,28 +220,6 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 #
 
-# :computer: My coding journey :computer:
-At the age of 13, I discovered my passion for tech while exploring my parents' Windows 98 PC. My brother and I would visit the recycling center, where we picked up discarded computers to take them apart and explore their inner workings.
-
-During my university years, I worked on a project using Wix to create a website that helped people with rehabilitation. It was then that I realized my deep affinity for web development. Motivated by this newfound passion, I dived into learning HTML, CSS, and JavaScript. This marked the turning point in my career, as I decided to transition into software development.
-
-Since then, I have embraced continuous learning, leveraging online resources and engaging with coding communities. Through perseverance and tackling challenging projects, I have sharpened my skills and grown as a developer.
-<br />
-<br />
-<br />
-About me:<br />
-- 📖 I love reading, expecially sci-fi and fantasy. However I'm currently reading, Grokking Algorithms to improve my data structure and algorithms. <br />
-- 🔒 Passionate about crypto. <br />
-- 🍴 Love cooking. <br />
-- 🐧 Recently started tinkering with Linux and Raspberry pi <br />
-- 🎵 Avid listener of podcasts. (Syntax, Lex Friman, JavaScript Jabber, Modern Web)
-
-#
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats)
-
-#
-
 <p align='center'>
 <a href="https://www.linkedin.com/in/maurobusso/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/MauroBusso4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
