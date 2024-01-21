@@ -112,7 +112,7 @@ While my primary focus is web development, I have a strong desire to expand my k
         <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <p>This app allow the user to fetch data from the famous nasa API to obtain some information and display iamges of our amazing universe.</p> 
+        <p>App that allow the user to fetch data from nasa APIs to obtain information and display iamges of our universe.</p> 
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ While my primary focus is web development, I have a strong desire to expand my k
       <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img alt="tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
       <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
-      <p>This application allows you to calculate the amount of local anaesthetic that can be
+      <p>This application allows you to calculate the amount of local anaesthetic that can be safely injected to a patient.
     </td>
     <td width="50%" height="50%" valign="top">
       <h3 align="center">Personal Portfolio</h3>
@@ -189,7 +189,7 @@ While my primary focus is web development, I have a strong desire to expand my k
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
         <img alt="typescript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <p> 
-            This is a one player blackjack game inspired by the Scrimba developer course, but improved with the utilisation of a deck of card API which gives the ability of also showing the image of the card which                   originally was not present.
+            This is a one player blackjack game inspired by the Scrimba developer course, but improved with the utilisation of a deck of card API which gives the ability of also showing the image of the card which.
         </p> 
     </td>
     <td width="50%" valign="top">
@@ -216,7 +216,7 @@ While my primary focus is web development, I have a strong desire to expand my k
       <img alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
       <img alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
       <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <p> The main goal of this project was to enhance back-end development skills while creating a practical application to store and manage birthdays. The app allows users to add, update, and delete birthdays, which             are then stored in a database. Users can later access these birthdays or get reminders.</p> 
+      <p> The main goal of this project was to enhance back-end development skills while creating a practical application to store and manage birthdays. The app allows users to add, update, and delete birthdays, which are then stored in a database. Users can later access these birthdays or get reminders.</p> 
     </td>
   </tr>
 </table>
