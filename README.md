@@ -112,7 +112,7 @@ While my primary focus is web development, I have a strong desire to expand my k
         <img alt="CSS" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />     
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <p>App that allow the user to fetch data from nasa APIs to obtain information and display iamges of our universe.</p> 
+        <p>App that allow the user to fetch data from nasa APIs to obtain information and display images of our universe.</p> 
     </td>
   </tr>
   <tr>
