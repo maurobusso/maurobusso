@@ -189,7 +189,7 @@ While my primary focus is web development, I have a strong desire to expand my k
         <img alt="JavaScript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
         <img alt="typescript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <p> 
-            This is a one player blackjack game inspired by the Scrimba developer course, but improved with the utilisation of a deck of card API which gives the ability of also showing the image of the card which.
+            This is a one player blackjack game inspired by the Scrimba developer course, but improved with the introduction of an API to show the image of the cards. The whole project has been revritten in Typescript.
         </p> 
     </td>
     <td width="50%" valign="top">
