@@ -141,16 +141,16 @@ While my primary focus is web development, I have a strong desire to expand my k
     <td width="50%" height="50%" valign="top">
       <h3 align="center">Personal Portfolio</h3>
         <br />
-        <a target="_blank" href="https://maurobusso.netlify.app/">
-          <img src="https://github.com/maurobusso/personal-website/blob/main/src/Assets/personal-portfolio.png" alt=""/>
+        <a target="_blank" href="https://portfolio-git-main-projectasf.vercel.app/">
+          <img src="https://github.com/maurobusso/personal-portfolio-2.0/blob/main/Images/portfolio-img.png" alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/maurobusso/personal-website" target="_blank">
+  <a href="https://github.com/maurobusso/personal-portfolio-2.0" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://maurobusso.netlify.app/" target="_blank">
+  <a href="https://portfolio-d0q55f8vh-projectasf.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
