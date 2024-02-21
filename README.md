@@ -43,11 +43,14 @@ While my primary focus is web development, I have a strong desire to expand my k
   <img align="left" alt="MongoDB" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
 </div>  
 <div style="padding: 6%;">
-  <img align="left" alt="Tailwind" width="15%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-</div>
-<div style="padding: 6%;">
   <img align="left" alt="C" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </div>  
+<div style="padding: 6%;">
+  <img align="left" alt="C" width="8%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+</div>     
+<div style="padding: 6%;">
+  <img align="left" alt="Tailwind" width="15%" style="padding:6%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+</div>
 
 
 
