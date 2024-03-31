@@ -34,7 +34,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurobusso" alt="maurobusso" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurobusso&theme=onedark" alt="maurobusso" /></a> </p>
 
 <div align="center">
   
