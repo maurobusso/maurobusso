@@ -1,6 +1,6 @@
 # Hello there!  :blush:
 
-<img align="right" width="400px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo.webp" /> 
+<img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/img1.webp" /> 
 
 I am Mauro, I'm a software developer, with a background in health care. My software developer journey started in 2021. 
 
