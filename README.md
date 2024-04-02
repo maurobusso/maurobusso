@@ -10,7 +10,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 <br/>
 
-- :nut_and_bolt: I’m currently building: DoseWise a medical application to help calculate the amount of Local Anaesthetic.
+- :nut_and_bolt: I’m currently building: [DoseWise](https://github.com/maurobusso/DoseWise) a medical application to help calculate the amount of Local Anaesthetic.
 
 - :books: I’m also taking CS50, to help solidify my computer science foundamentals .
 
