@@ -32,14 +32,17 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 #
 
+<br />
+<br />
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurobusso&theme=onedark&row=3&column=4" alt="maurobusso" /></a> </p>
   
+<br />
+<br />
+
 <div align="center">
 
-<br />
-<br />
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats) 
+   [![GitHub Streak](https://streak-stats.demolab.com?user=maurobusso&theme=vue-dark)](https://git.io/streak-stats) 
  
 </div>
 
