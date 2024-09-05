@@ -14,10 +14,6 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 - :books: I’m also taking CS50, to help solidify my computer science foundamentals .
 
-- :computer: Collabourating with [STA](https://www.scottishtecharmy.org/) on charity projects.
-
-- :mag_right: I’m looking for a full time position as software developer.
-
 - :bust_in_silhouette: This is my [Personal Portfolio](https://portfolio-mb93.vercel.app/about)
 
 <br/>
