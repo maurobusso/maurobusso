@@ -23,7 +23,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 # Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,postgresql,sqlite,mongodb,tailwind,ts,supabase,c,python,ruby,flask,linux,git,github,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,postgresql,sqlite,mongodb,tailwind,ts,supabase,c,python,ruby,linux,git,github,netlify&perline=7" />
 </p>
 
 #
