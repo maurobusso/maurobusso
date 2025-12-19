@@ -4,6 +4,8 @@
 
 I am Mauro, I'm a software developer, with a background in health care. My software developer journey started in 2021. 
 
+Currenltly working at Funding Circle, a cutting edge fintech company specialized in leanding to small businesses. 
+
 While my primary focus is web development, I have a strong desire to expand my knowledge as a developer. Recently, I have been delving into Linux and actively staying updated on emerging technologies.
 
 <br/>
