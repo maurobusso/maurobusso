@@ -12,7 +12,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 <br/>
 
-- :nut_and_bolt: My latest personal project was aimed at tracking my office attendance. Built it in Python one, one of the must fun project I made recently. [Office Attendance Tracker]([https://github.com/maurobusso/DoseWise](https://github.com/maurobusso/office_attendace))
+- :nut_and_bolt: My latest personal project was aimed at tracking my office attendance. Built it in Python one, one of the must fun project I made recently. [Office Attendance Tracker([https://github.com/maurobusso/office_attendace])
 
 - :books: I’m also taking CS50, to help solidify my computer science foundamentals .
 
