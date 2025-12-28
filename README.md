@@ -11,7 +11,8 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 
 - :nut_and_bolt: My latest personal project was aimed at tracking my office attendance. Built it in Python, one of the must fun project I made recently. [Office Attendance Tracker](https://github.com/maurobusso/office_attendace)
-- :books: I’m also taking CS50, to help solidify my computer science fundamentals.
+- :books: I have also been taking CS50, to help solidify my computer science fundamentals.
+- :brain: I like to stay up to date with the tech world using [Daily.dev](https://daily.dev/) and listening to podcasts.
 - :bust_in_silhouette: This is my [Personal Portfolio](https://portfolio-mb93.vercel.app/about)
 
 <br/>
