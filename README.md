@@ -6,8 +6,6 @@
 
 <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/img1.webp" /> 
 
-I am Mauro, I'm a software developer, with a background in health care. My software developer journey started in 2021. 
-
 Currently working at Funding Circle, a cutting edge fintech company specialized in lending to small businesses. 
 
 While my primary focus is web development, I have a strong desire to expand my knowledge as a developer. Recently, I have been delving into Linux and actively staying updated on emerging technologies.
