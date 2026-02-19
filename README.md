@@ -33,30 +33,29 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 #
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=maurobusso&theme=onedark&row=3&column=4" alt="maurobusso" />
   </a>
-</p>
+</p> -->
 
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
+<!-- <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=maurobusso&theme=vue-dark" alt="GitHub Streak" />
   </a>
-</div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurobusso&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="maurobusso" />
+-- use this instead
+[![Mauro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=maurobusso)](https://github.com/maurobusso/github-readme-stats-fast)
+</p> -->
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurobusso&show_icons=true&locale=en&layout=compact" alt="maurobusso" />
-</div >
-
-<p align='center'>
+<p align="center">
   <a href="https://www.linkedin.com/in/maurobusso/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
   <a href="https://twitter.com/MauroBusso4"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
   <a href="mailto:mauro.busso12@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/107254152/192117495-48f525bb-451a-4be3-a97f-3975f3648831.png"></a>
 </p>
 
-<p  align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurobusso" alt="visitor badge"/>       
 </p>
