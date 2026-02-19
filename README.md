@@ -1,4 +1,8 @@
-# Hi, I'm Mauro! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=100&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mauro;Software+Engineer;Always+Learning%2C" alt="Typing SVG" />
+</p>
+
+# 
 
 <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/img1.webp" /> 
 
@@ -18,6 +22,10 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 <br/>
 <br/>
+
+<a href="https://app.daily.dev/maurobusso">
+  <img src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=wide&r=91q" width="652" alt="Mauro Busso's Dev Card"/>
+</a>
 
 # Languages and tools
 
