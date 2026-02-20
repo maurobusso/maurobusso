@@ -5,7 +5,7 @@
 # 
 
 <!-- <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/img1.webp" /> -->
-<img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/rick_1.webp" />
+<!-- <img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/rick_1.webp" /> -->
 
 Currently working at Funding Circle, a cutting edge fintech company specialized in lending to small businesses. 
 
@@ -22,11 +22,12 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 <br/>
 
+
 <a href="https://app.daily.dev/maurobusso">
-  <img src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=wide&r=91q" width="500" alt="Mauro Busso's Dev Card"/>
+  <img align="left" src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=default&r=0sr" width="350" alt="Mauro Busso's Dev Card" hspace="125"/>
 </a>
 
-# Blog Article Currently Reading
+### 📚 Blog Articles I'm Reading
 
 <!-- daily.dev BOOKMARKS:START -->
 - [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
@@ -34,9 +35,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 - [A minimalist portfolio built with NextJS and Tailwind CSS](https://app.daily.dev/posts/nCC9OEYs7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [A Minimalistic Portfolio, Keeping It Simple !](https://app.daily.dev/posts/FbkfwDOtK?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Check your dotfiles! How I reclaimed my terminal startup speed](https://app.daily.dev/posts/R2YDkwNBO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+<br clear="left"/>
 <!-- daily.dev BOOKMARKS:END -->
 
-# Languages and tools
+#
+### Languages and tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,ts,supabase,c,python,ruby,rails,kafka,kubernetes,linux,git,github,netlify&perline=10" />
