@@ -22,7 +22,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br/>
 
 <a href="https://app.daily.dev/maurobusso">
-  <img src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=wide&r=91q" width="652" alt="Mauro Busso's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=wide&r=91q" width="500" alt="Mauro Busso's Dev Card"/>
 </a>
 
 # Languages and tools
