@@ -15,20 +15,3 @@ jobs:
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/7d441103-f2c8-43b4-b078-1cd6c6912156"
-
-
-**Important:** You need to replace the `<YOUR BOOKMARKS RSS FEED LINK HERE>` with your own RSS feed.
-
-- Commit the `daily.dev-bookmarks.yml` file. Your file should look like this:
-
-![Example of daily.dev-bookmarks.yml file setup](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub6.png)
-
-- Open the `README.md` file in your profile repository (this repository should be named the same as your GitHub account).
-
-![GitHub profile repository README setup](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub7.png)
-
-- Add these lines at the end of the `README.md` file:
-
-```markdown
-<!-- daily.dev BOOKMARKS:START -->
-<!-- daily.dev BOOKMARKS:END -->
