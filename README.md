@@ -62,4 +62,9 @@ While my primary focus is web development, I have a strong desire to expand my k
 </p>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Where feedback goes to die](https://app.daily.dev/posts/7R08hf9cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [A minimalist portfolio built with NextJS and Tailwind CSS](https://app.daily.dev/posts/nCC9OEYs7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [A Minimalistic Portfolio, Keeping It Simple !](https://app.daily.dev/posts/FbkfwDOtK?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Check your dotfiles! How I reclaimed my terminal startup speed](https://app.daily.dev/posts/R2YDkwNBO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
