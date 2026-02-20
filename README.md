@@ -24,7 +24,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 
 <a href="https://app.daily.dev/maurobusso">
-  <img align="left" src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=default&r=0sr" width="350" alt="Mauro Busso's Dev Card" hspace="100"/>
+  <img align="left" src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=default&r=0sr" width="300" alt="Mauro Busso's Dev Card" hspace="100"/>
 </a>
 
 ### 📚 Blog Articles I'm Reading
