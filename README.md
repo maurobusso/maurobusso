@@ -5,7 +5,7 @@
 # 
 
 <!-- <img align="right" width="300px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/img1.webp" /> -->
-<img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/il_1140xN.2797040551_6lnd.webp" />
+<img align="right" width="200px" height="200px" src="https://raw.githubusercontent.com/maurobusso/maurobusso/main/rick_1.webp" />
 
 Currently working at Funding Circle, a cutting edge fintech company specialized in lending to small businesses. 
 
