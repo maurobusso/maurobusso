@@ -26,10 +26,20 @@ While my primary focus is web development, I have a strong desire to expand my k
   <img src="https://api.daily.dev/devcards/v2/R65UaaY95ScaQ5eHjuGKd.png?type=wide&r=91q" width="500" alt="Mauro Busso's Dev Card"/>
 </a>
 
+# Blog Article Currently Reading
+
+<!-- daily.dev BOOKMARKS:START -->
+- [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Where feedback goes to die](https://app.daily.dev/posts/7R08hf9cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [A minimalist portfolio built with NextJS and Tailwind CSS](https://app.daily.dev/posts/nCC9OEYs7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [A Minimalistic Portfolio, Keeping It Simple !](https://app.daily.dev/posts/FbkfwDOtK?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Check your dotfiles! How I reclaimed my terminal startup speed](https://app.daily.dev/posts/R2YDkwNBO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+<!-- daily.dev BOOKMARKS:END -->
+
 # Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,ts,supabase,c,python,ruby,rails,kafka,kubernetes,linux,git,github,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,ts,supabase,c,python,ruby,rails,kafka,kubernetes,linux,git,github,netlify&perline=10" />
 </p>
 
 #
@@ -60,11 +70,3 @@ While my primary focus is web development, I have a strong desire to expand my k
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurobusso" alt="visitor badge"/>       
 </p>
-
-<!-- daily.dev BOOKMARKS:START -->
-- [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Where feedback goes to die](https://app.daily.dev/posts/7R08hf9cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [A minimalist portfolio built with NextJS and Tailwind CSS](https://app.daily.dev/posts/nCC9OEYs7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [A Minimalistic Portfolio, Keeping It Simple !](https://app.daily.dev/posts/FbkfwDOtK?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Check your dotfiles! How I reclaimed my terminal startup speed](https://app.daily.dev/posts/R2YDkwNBO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-<!-- daily.dev BOOKMARKS:END -->
