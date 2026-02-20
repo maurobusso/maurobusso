@@ -60,3 +60,6 @@ While my primary focus is web development, I have a strong desire to expand my k
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurobusso" alt="visitor badge"/>       
 </p>
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
