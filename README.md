@@ -30,11 +30,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 ### 📚 Blog Articles I'm Reading
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/YEwtvc65K?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/uIIO6Qog2?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/fI73pTtiz?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Where feedback goes to die](https://app.daily.dev/posts/7R08hf9cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [A minimalist portfolio built with NextJS and Tailwind CSS](https://app.daily.dev/posts/nCC9OEYs7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 
 #
