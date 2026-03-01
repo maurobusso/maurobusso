@@ -25,11 +25,11 @@
 ### 📚 Blog Articles I'm Reading
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How Even Senior Developers Mess Up Their Git Workflow](https://app.daily.dev/posts/EcpXBt7Kr?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/YEwtvc65K?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/uIIO6Qog2?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/fI73pTtiz?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [What&#39;s so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Where feedback goes to die](https://app.daily.dev/posts/7R08hf9cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### 🛠 Languages and Tools
