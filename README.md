@@ -16,6 +16,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 - :books: **[CS50](https://cs50.harvard.edu/x/)**: Deepening my understanding of computer science fundamentals.
 - :brain: **[Daily.dev](https://daily.dev/)**: Staying ahead of the curve with the tech world.
 - :bust_in_silhouette: **[Personal Portfolio](https://portfolio-mb93.vercel.app/about)**
+- :grey_question: Ask me about my "squiggly" career path from healthcare to Software Engineering
 
 <br clear="both"/>
 
