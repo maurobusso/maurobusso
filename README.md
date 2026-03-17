@@ -21,11 +21,8 @@ While my primary focus is web development, I have a strong desire to expand my k
 <br clear="both"/>
 
 ### 📚 Blog Articles I'm Reading
-- [How Even Senior Developers Mess Up Their Git Workflow](https://app.daily.dev/posts/EcpXBt7Kr?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/YEwtvc65K?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/uIIO6Qog2?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/fI73pTtiz?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [What's so great about Rust? — Bitfield Consulting](https://app.daily.dev/posts/SHr1KLVGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,ts,supabase,c,python,ruby,rails,kafka,kubernetes,linux,git,github,netlify&perline=10" />
