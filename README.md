@@ -15,7 +15,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 - :nut_and_bolt: **[Office Attendance Tracker](https://github.com/maurobusso/office_attendace)**: Built in Python to automate tracking my office days.
 - :books: **[CS50](https://cs50.harvard.edu/x/)**: Deepening my understanding of computer science fundamentals.
 - :brain: **[Daily.dev](https://daily.dev/)**: Staying ahead of the curve with the tech world.
-- :bust_in_silhouette: **[Personal Portfolio](https://portfolio-mb93.vercel.app/about)**
+- :bust_in_silhouette: **[Personal Portfolio](https://mauro-busso-portfolio.leapcell.app/)**
 - :grey_question: Ask me about my "squiggly" career path from healthcare to Software Engineering
 
 <br clear="both"/>
