@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [REST API version 2026-03-10 is now available](https://app.daily.dev/posts/yuWV2Fnu4?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [No title](https://app.daily.dev/posts/Q07XZnDDO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://app.daily.dev/posts/BPzGx3P9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [What I learned from the book Software Engineering at Google](https://app.daily.dev/posts/I6xEDpXUS?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [9 Advanced PostgreSQL Features I Wish I Knew Sooner](https://app.daily.dev/posts/NeZIDnBNU?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [How Even Senior Developers Mess Up Their Git Workflow](https://app.daily.dev/posts/EcpXBt7Kr?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/uIIO6Qog2?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
