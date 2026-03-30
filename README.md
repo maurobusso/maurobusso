@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [Ubuntu 26.04 LTS beta is out now, with GNOME 50, Linux 7.0, and no more X11](https://app.daily.dev/posts/ZDMMAi90w?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://app.daily.dev/posts/AvXNa15IP?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Get going with Rust from Microsoft.](https://app.daily.dev/posts/xssoc0xIN?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Unix philosophy is dead! Long live... something else?](https://app.daily.dev/posts/lb4slHtWn?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [REST API version 2026-03-10 is now available](https://app.daily.dev/posts/yuWV2Fnu4?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/Q07XZnDDO?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [No title](https://app.daily.dev/posts/BPzGx3P9g?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
