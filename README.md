@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/AQQcLv62U?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Two Ways to Think of AI Without Outsourcing Your Mind](https://app.daily.dev/posts/5iJIDbWUF?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Four Lines in &lt;head&gt; Changed My Site Speed](https://app.daily.dev/posts/txsv1E0As?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [I switched to Ghostty and discovered Linux terminals could actually be fun](https://app.daily.dev/posts/kwfmvgGqr?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [What Really Makes a Succesful Software Engineer](https://app.daily.dev/posts/6oT0HwaDH?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Ubuntu 26.04 LTS beta is out now, with GNOME 50, Linux 7.0, and no more X11](https://app.daily.dev/posts/ZDMMAi90w?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
