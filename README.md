@@ -30,7 +30,7 @@ While my primary focus is web development, I have a strong desire to expand my k
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,supabase,python,ruby,rails,kafka,kubernetes,linux,git,github,netlify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgresql,sqlite,tailwind,supabase,python,ruby,rails,kafka,kubernetes,linux,git,github&perline=10" />
 </p>
 
 <!-- <p align="center">
