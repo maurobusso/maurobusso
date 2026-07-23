@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [Does AI Mean You Can Skip the Fundamentals? Here’s What Actually Changed](https://daily.dev/posts/Ar5tCEunh?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [The Deep Work Paradox: Why “Busy” Is Killing Your Growth &lpar;And How to Fix It&rpar;](https://daily.dev/posts/WPa2jwDtP?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [The “Productivity Trap”: Why Your Daily To-Do List is Keeping You Poor](https://daily.dev/posts/rHQRvKzON?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Too many tables are bad for you](https://daily.dev/posts/vPPcBovr4?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [What&#39;s new in Git 2.55.0?](https://daily.dev/posts/yTX0eZS5f?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Why AI is Replacing Junior Developers and How Mid-Level Engineers Can Survive](https://daily.dev/posts/G2YxKXQjJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [The Best Features Of Linux 7.1: FRED, New NTFS Driver &amp; More Performance](https://daily.dev/posts/F4X0jF1BH?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [What I got wrong about fast terminals](https://daily.dev/posts/hFuBkEfGv?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
