@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [Junior engineers are skipping straight to architect-level thinking](https://daily.dev/posts/Cr04y7Jer?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [No title](https://daily.dev/posts/oSxH3nJB1?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Linux&#39;s 10% market share spike is probably bots, but the Windows 10 story is real](https://daily.dev/posts/vhIhiZmd7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Day 9/30 — Kill the N+1 Query](https://daily.dev/posts/FFCsnZgIb?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Day 6/30 — Dependency Injection Is Your Superpower](https://daily.dev/posts/ZvxhM4Soh?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Does AI Mean You Can Skip the Fundamentals? Here’s What Actually Changed](https://daily.dev/posts/Ar5tCEunh?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [The Deep Work Paradox: Why “Busy” Is Killing Your Growth &lpar;And How to Fix It&rpar;](https://daily.dev/posts/WPa2jwDtP?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
