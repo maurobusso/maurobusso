@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [Practical Methods for Programming Self-Study](https://daily.dev/posts/SMtgE6m92?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [The Quiet Weight of Working in Tech in the AI Era](https://daily.dev/posts/DVZBShH7e?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Junior engineers are skipping straight to architect-level thinking](https://daily.dev/posts/Cr04y7Jer?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://daily.dev/posts/oSxH3nJB1?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Linux&#39;s 10% market share spike is probably bots, but the Windows 10 story is real](https://daily.dev/posts/vhIhiZmd7?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Day 9/30 — Kill the N+1 Query](https://daily.dev/posts/FFCsnZgIb?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
