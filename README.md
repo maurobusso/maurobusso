@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
-- [No title](https://daily.dev/posts/BIjXT63cx?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [A collection of great resources, books, roadmap, research papers, blogs, free and open-source software, recommended websites for programmers, ML resources, and much more!](https://daily.dev/posts/QsllMVPx9?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Dear Coder: Open This If You&#39;re Feeling AI FOMO](https://daily.dev/posts/oBDUfGZ7N?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Practical Methods for Programming Self-Study](https://daily.dev/posts/SMtgE6m92?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [The Quiet Weight of Working in Tech in the AI Era](https://daily.dev/posts/DVZBShH7e?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
+- [Junior engineers are skipping straight to architect-level thinking](https://daily.dev/posts/Cr04y7Jer?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
