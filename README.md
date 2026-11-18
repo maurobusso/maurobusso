@@ -22,11 +22,11 @@ While my primary focus is web development, I have a strong desire to expand my k
 
 ### 📚 Blog Articles I'm Reading
 <!-- daily.dev BOOKMARKS:START -->
+- [The T-shaped Developer](https://daily.dev/posts/oWzkXG0oz?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [A collection of great resources, books, roadmap, research papers, blogs, free and open-source software, recommended websites for programmers, ML resources, and much more!](https://daily.dev/posts/QsllMVPx9?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [The Quiet Weight of Working in Tech in the AI Era](https://daily.dev/posts/DVZBShH7e?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [Junior engineers are skipping straight to architect-level thinking](https://daily.dev/posts/Cr04y7Jer?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 - [No title](https://daily.dev/posts/oSxH3nJB1?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
-- [Day 9/30 — Kill the N+1 Query](https://daily.dev/posts/FFCsnZgIb?utm_source=rss&utm_medium=bookmarks&utm_campaign=R65UaaY95ScaQ5eHjuGKd)
 <!-- daily.dev BOOKMARKS:END -->
 ### 🛠 Languages and Tools
 <p align="center">
